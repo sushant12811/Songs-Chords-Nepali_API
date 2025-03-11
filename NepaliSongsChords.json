@@ -1,0 +1,84 @@
+[
+{
+
+"songID"    : 1,
+"title"     :  "Parelima",
+"artist"    : "1974 A.D.",
+"chords"    : ["E", "F#m", "A", "E", "C#m", "B"],
+"content"   :       
+["E..........F#m...A.......E....",
+"Parelima lukai rakhana",
+"E..........F#m...A.......E....",
+"angaloma bandhi rakha",
+"E.....F#m...A.......E.........",
+"jana nadeu roka naroka",
+"E........F#m...A................................B.......",
+"udna nadeu aakasko chari jastai malai",
+"C#m....................................B.....",
+"badhera rakha timrai mutuma",
+"C#m.................B..............",
+"yo ta timrai dhadkan ho",
+"C#m..............................B............",
+"sachera rakha timrai aakhama",
+"A...............................B..",
+"yo ta timrai sahara ho",
+"",
+"E..........F#m...A...........E.........",
+"manna bhitra sachi rakha na",
+"E..........F#m......A.......E....",
+"aakha bhitra alghaerakha",
+"E..........F#m...A..............E....",
+"ramna deuna timro aakhama",
+"E......F#m.........",
+"basa basna deu",
+"A........C#m.............B......................",
+"timro hridaya ko dhuk dhuki ma",
+"C#m..............................B.........",
+"badhera raha timrai mutuma",
+"C#m............................B.....",
+"yo ta timrai dhadkana ho",
+"C#m.............................B.............",
+"sachera rakha timrai aakhama",
+"A...........................B.....",
+"yo ta timrai sahara ho"
+]
+},
+{
+    "songID" : 2,
+    "title" : "Jomson Bazar Ma",
+    "artist" : "Nepathya",
+    "chords" : ["G", "F", "C"],
+    "content" : 
+    [
+       " G....................F...........G.............F.............G....",
+        "Jomsomai bazar ma bara baje hawa sarara",
+        ".........C....................F...........G.....",
+        "eh hajoor ghar hamro pokhara",
+        "G........................F..................G........",
+        "aahile samma bha chaina gharbar",
+        "......................F.......G..",
+        "ghar hamro pokhara",
+        
+        "G.................................F........",
+        "tyo danda dhakyo kuhirole",
+       ".........................................G....",
+        "aagha pani paren lai bari lai",
+        "..................................F........",
+        "dil chundi lagyo nisthurile",
+        "....................................................G.......",
+        "man ko byatha bughauna lai bari lai",
+        
+        "G......................F...........",
+        "jindagi bageko pani ho",
+        "...........................................G.........",
+        "feri farkera aaudaina lai bari lai",
+        "...............................F............",
+        "lagai halau maya yehi bela",
+        ".................................................G.....",
+        "yesto mauka aaundaina lai bari lai"
+    ]
+
+}
+
+
+]
