@@ -1,7 +1,7 @@
 import { Collection, Schema, model } from "mongoose";
 
 //Structure-Data types- Interface
-interface IChords 
+interface IChord 
 {
     songID : number,
     title : string,
@@ -11,7 +11,7 @@ interface IChords
 }
 
 //Chord Schema - structure
-let chordSchema = new Schema<IChords>
+let chordSchema = new Schema<IChord>
 ({
     songID : Number,
     title : String,
@@ -19,8 +19,8 @@ let chordSchema = new Schema<IChords>
     chords : [String],
     content : [String]
 
-})
+});
 
-let Chord = model<IChords>('Chord', chordSchema);
+let Chord = model<IChord>('Chord', chordSchema);
 
 export default Chord;

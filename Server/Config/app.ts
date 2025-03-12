@@ -3,11 +3,27 @@ import express , {NextFunction, Request, Response}from 'express';
 import path from 'path'
 import cookieParser from 'cookie-parser'
 import logger from'morgan';
+import dotenv from 'dotenv'
+
+dotenv.config();
+
+//Connected to MongoDB
+import mongoose from 'mongoose';
+import db from './db';
+
+mongoose.connect(db.remoteURI)
+
+mongoose.connection.on('connected',() => {
+  console.log('Connected to MongoDB Atlas');
+})
 
 import indexRouter from '../Routes/index';
 
+
 //create an express app
 const app = express();
+
+
 
 
 app.use(logger('dev'));

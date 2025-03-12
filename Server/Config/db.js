@@ -1,7 +1,7 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-let remoteURL = (process.env.MONGODB_URL);
+let remoteURI = (process.env.MONGODB_URI);
 exports.default = {
-    remoteURL: remoteURL
+    remoteURI: remoteURI,
 };
 //# sourceMappingURL=db.js.map

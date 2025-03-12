@@ -1,5 +1,5 @@
-let remoteURL = (process.env.MONGODB_URL) as string
+let remoteURI = (process.env.MONGODB_URI) as string
 
 export default{
-    remoteURL : remoteURL
+    remoteURI : remoteURI,
 }
