@@ -4,6 +4,6 @@ import { DisplayedChordsList } from '../Controller/chord';
 
 
 /* GET home page. */
-router.get('/', function(req, res, next) {DisplayedChordsList(req, res, next);});
+router.get('/list', function(req, res, next) {DisplayedChordsList(req, res, next);});
 
 export default router;
