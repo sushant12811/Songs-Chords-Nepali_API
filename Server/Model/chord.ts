@@ -1,4 +1,5 @@
 import { Collection, Schema, model } from "mongoose";
+import { Url } from "url";
 
 //Structure-Data types- Interface
 interface IChord 
@@ -7,7 +8,8 @@ interface IChord
     title : string,
     artist : string,
     chords : string[],
-    content : string[]
+    content : string[],
+    chordImageURL : string[],
 }
 
 //Chord Schema - structure
@@ -17,7 +19,8 @@ let chordSchema = new Schema<IChord>
     title : String,
     artist : String,
     chords : [String],
-    content : [String]
+    content : [String],
+    chordImageURL:[String]
 
 });
 
