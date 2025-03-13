@@ -8,8 +8,8 @@ interface IChord
     title : string,
     artist : string,
     chords : string[],
-    content : string[],
     chordImageURL : string[],
+    content : string[]
 }
 
 //Chord Schema - structure
@@ -19,8 +19,8 @@ let chordSchema = new Schema<IChord>
     title : String,
     artist : String,
     chords : [String],
-    content : [String],
-    chordImageURL:[String]
+    chordImageURL:[String],
+    content : [String]
 
 });
 

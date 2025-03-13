@@ -4,7 +4,7 @@
 "songID"    : 1,
 "title"     :  "Parelima",
 "artist"    : "1974 A.D.",
-"chords"    : ["E", "F#m", "A", "E", "C#m", "B"],
+"chords"    : ["E", "F#m", "A", "C#m", "B"],
 "content"   :       
 ["E..........F#m...A.......E....",
 "Parelima lukai rakhana",
@@ -41,7 +41,9 @@
 "sachera rakha timrai aakhama",
 "A...........................B.....",
 "yo ta timrai sahara ho"
-]
+],
+"chordImageUrl" : ["https://imgur.com/LvhHfFi", "https://imgur.com/edZKKTP", "https://imgur.com/6HlPu4b", "https://imgur.com/8mkSRqK", "https://imgur.com/KFDUFhe"]
+
 },
 {
     "songID" : 2,
@@ -76,14 +78,15 @@
         "lagai halau maya yehi bela",
         ".................................................G.....",
         "yesto mauka aaundaina lai bari lai"
-    ]
+    ],
+    "chordImageUrl" : ["https://imgur.com/KeX7sc0", "https://imgur.com/N043cVn", "https://imgur.com/S73Txk8"]
 
 },
 {
     "songID": 3, 
     "title": "Kehi Mitho Baat Gara",
     "artist": "Narayan Gopal",
-    "chords": ["F", "Am", "C", "Bb", "F"],
+    "chords": ["F", "Am", "C", "Bb"],
     "content": [
       "F......................Am.....................C....................F.......",
       "kehi meetho baat gara, raat tyasai dhalkidai cha",
@@ -113,7 +116,8 @@
       "dui kadam saath hidau chuttinu ta chadai cha",
       ".............Bb...............F.......Bb.................F........",
       "bhare pheri yekantama runu ta chadai cha"
-    ]
+    ],
+     "chordImageUrl": ["https://imgur.com/N043cVn", "https://imgur.com/J62GFv8", "https://imgur.com/S73Txk8", "https://imgur.com/8mkSRqK", "https://imgur.com/KFDUFhe"]
 },
 {
 "songID": 4, 
@@ -126,7 +130,7 @@
     "C.........................Dm.......F.................C........",
     "jiban ho bina maya, chatpati taba huncha",
     "",
-    "C....................................D...................F...........................C",
+    "C....................................D...................F.............C",
     "samaya chakrama ghumi rahane ghadiko suero ho ki",
     "C...................................Dm..........F............C",
     "nashama ghumi rahane kunai bhula ho ki",
@@ -155,7 +159,8 @@
     "yo jindagani, yo jindagani, yo jindagani",
     "C................Dm..............F......................C",
     "yo jindagani, yo jindagani, yo jindagani"
-  ]
+  ],
+  "chordImageUrl": ["https://imgur.com/S73Txk8", "https://imgur.com/BFDPtgd", "https://imgur.com/N043cVn", "https://imgur.com/wA0v6xu", "https://imgur.com/KeX7sc0"]
 },
 {
     "songID": 5,
@@ -197,7 +202,8 @@
       "danda parima chautari ma x 2",
       "G............Am....G......Am....",
       "chiya bari ma, chiya barima"
-    ]
+    ],
+    "chordImageUrl": []
 },
 {
     "songID": 6,

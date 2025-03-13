@@ -6,8 +6,8 @@ let chordSchema = new mongoose_1.Schema({
     title: String,
     artist: String,
     chords: [String],
-    content: [String],
-    chordImageURL: [String]
+    chordImageURL: [String],
+    content: [String]
 });
 let Chord = (0, mongoose_1.model)('Chord', chordSchema);
 exports.default = Chord;
