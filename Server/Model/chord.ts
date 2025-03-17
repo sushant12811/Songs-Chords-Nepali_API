@@ -13,7 +13,7 @@ interface IChord
     title : string,
     artist : string,
     chords : string[],
-    chordImageURL : chordImages,
+    chordImageUrl: chordImages,
     content : string[]
 }
 
@@ -24,7 +24,7 @@ let chordSchema = new Schema<IChord>
     title : String,
     artist : String,
     chords : [String],
-    chordImageURL:
+    chordImageUrl:
     [
         {
             imageUrl: [String]
