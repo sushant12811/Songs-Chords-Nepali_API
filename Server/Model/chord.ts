@@ -13,7 +13,7 @@ interface IChord
     title : string,
     artist : string,
     chords : string[],
-    chordImageUrl: chordImages,
+    chordImageUrl: chordImages[],
     content : string[]
 }
 
