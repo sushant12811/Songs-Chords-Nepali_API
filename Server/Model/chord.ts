@@ -2,13 +2,18 @@ import { Collection, Schema, model } from "mongoose";
 import { Url } from "url";
 
 //Structure-Data types- Interface
+
+interface chordImages{
+    imageUrl :string[]
+}
+
 interface IChord 
 {
     songID : number,
     title : string,
     artist : string,
     chords : string[],
-    chordImageURL : string[],
+    chordImageURL : chordImages[],
     content : string[]
 }
 

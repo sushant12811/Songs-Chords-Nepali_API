@@ -5,6 +5,7 @@
 "title"     :  "Parelima",
 "artist"    : "1974 A.D.",
 "chords"    : ["E", "F#m", "A", "C#m", "B"],
+"chordImageUrl" : ["https://i.imgur.com/R15AwWH.png", "https://i.imgur.com/edZKKTP.png", "https://i.imgur.com/6HlPu4b.png", "https://i.imgur.com/8mkSRqK.png", "https://i.imgur.com/2iGwIMO.png"],
 "content"   :       
 ["E..........F#m...A.......E....",
 "Parelima lukai rakhana",
@@ -41,8 +42,7 @@
 "sachera rakha timrai aakhama",
 "A...........................B.....",
 "yo ta timrai sahara ho"
-],
-"chordImageUrl" : ["https://imgur.com/LvhHfFi", "https://imgur.com/edZKKTP", "https://imgur.com/6HlPu4b", "https://imgur.com/8mkSRqK", "https://imgur.com/KFDUFhe"]
+]
 
 },
 {
@@ -50,6 +50,7 @@
     "title" : "Jomson Bazar Ma",
     "artist" : "Nepathya",
     "chords" : ["G", "F", "C"],
+    "chordImageUrl" : ["https://i.imgur.com/KeX7sc0.png", "https://i.imgur.com/N043cVn.png", "https://i.imgur.com/S73Txk8.png"],
     "content" : 
     [
        " G....................F...........G.............F.............G....",
@@ -78,8 +79,7 @@
         "lagai halau maya yehi bela",
         ".................................................G.....",
         "yesto mauka aaundaina lai bari lai"
-    ],
-    "chordImageUrl" : ["https://imgur.com/KeX7sc0", "https://imgur.com/N043cVn", "https://imgur.com/S73Txk8"]
+    ]
 
 },
 {
@@ -87,6 +87,7 @@
     "title": "Kehi Mitho Baat Gara",
     "artist": "Narayan Gopal",
     "chords": ["F", "Am", "C", "Bb"],
+    "chordImageUrl": ["https://i.imgur.com/N043cVn.png", "https://i.imgur.com/J62GFv8.png", "https://i.imgur.com/S73Txk8.png", "https://i.imgur.com/KFDUFhe.png"],
     "content": [
       "F......................Am.....................C....................F.......",
       "kehi meetho baat gara, raat tyasai dhalkidai cha",
@@ -116,14 +117,14 @@
       "dui kadam saath hidau chuttinu ta chadai cha",
       ".............Bb...............F.......Bb.................F........",
       "bhare pheri yekantama runu ta chadai cha"
-    ],
-     "chordImageUrl": ["https://imgur.com/N043cVn", "https://imgur.com/J62GFv8", "https://imgur.com/S73Txk8", "https://imgur.com/8mkSRqK", "https://imgur.com/KFDUFhe"]
+    ]
 },
 {
 "songID": 4, 
   "title": "Jeevan Ho Gham Chaya",
   "artist": "Nepathya",
   "chords": ["C", "Dm", "F", "Em", "G"],
+  "chordImageUrl": ["https://i.imgur.com/S73Txk8.png", "https://i.imgur.com/BFDPtgd.png", "https://i.imgur.com/N043cVn.png","https://i.imgur.com/wA0v6xu.png", "https://i.imgur.com/KeX7sc0.png"],
   "content": [
     "C................................Dm.............F......................C.......",
     "Jeevan ho gham chaya, sukha dukha dubai huncha",
@@ -159,14 +160,14 @@
     "yo jindagani, yo jindagani, yo jindagani",
     "C................Dm..............F......................C",
     "yo jindagani, yo jindagani, yo jindagani"
-  ],
-  "chordImageUrl": ["https://imgur.com/S73Txk8", "https://imgur.com/BFDPtgd", "https://imgur.com/N043cVn", "https://imgur.com/wA0v6xu", "https://imgur.com/KeX7sc0"]
+  ]
 },
 {
     "songID": 5,
     "title": "Chiya Barima",
     "artist": "The Axe",
     "chords": ["Am", "G"],
+    "chordImageUrl": ["https://i.imgur.com/J62GFv8.png", "https://i.imgur.com/KeX7sc0.png"],
     "content": [
       "Am......................................G.......Am.",
       "dekhe timilai hijo hai raati sapani ma",
@@ -202,14 +203,17 @@
       "danda parima chautari ma x 2",
       "G............Am....G......Am....",
       "chiya bari ma, chiya barima"
-    ],
-    "chordImageUrl": []
+    ]
 },
 {
     "songID": 6,
     "title": "Praye Sadhai Ma",
     "artist": "The Axe",
     "chords": ["D", "G", "C"],
+    "chordImageUrl": [
+        "https://i.imgur.com/lJI3JOL.png",
+         "https://i.imgur.com/KeX7sc0.png", 
+         "https://i.imgur.com/S73Txk8.png"],
     "content": [
       "D..................................",
       "praye sadhai ma timilai",
@@ -268,6 +272,14 @@
     "title": "Euta Chitthi Ko Sahara Le",
     "artist": "The Axe",
     "chords": ["Em", "Esus4", "D", "C", "A", "F"],
+    "chordImageUrl": [
+    "https://i.imgur.com/wA0v6xu.png", 
+    "https://i.imgur.com/axNaI5y.png",
+     "https://i.imgur.com/lJI3JOL.png",
+     "https://i.imgur.com/S73Txk8.png",
+     "https://i.imgur.com/6HlPu4b.png", 
+      "https://i.imgur.com/N043cVn.png"
+    ],
     "content": [
       "Em...................................",
       "Euta chitthi ko saharale",
@@ -328,6 +340,14 @@
     "title": "Ritu Haruma Timi",
     "artist": "Arun Thapa",
     "chords": ["F", "Dm", "Gm", "Bb", "C", "Eb"],
+    "chordImageUrl":[ 
+        "https://i.imgur.com/N043cVn.png",
+         "https://i.imgur.com/BFDPtgd.png", 
+         "https://i.imgur.com/oykOv0E.png",
+         "https://i.imgur.com/gNOyx6h.png",
+         "https://i.imgur.com/S73Txk8.png",
+         "https://i.imgur.com/gNOyx6h.png"
+],
     "content": [
       "F..........................................Dm..........Gm",
       "Rituharuma timi hariyali basanta hau",
@@ -368,6 +388,11 @@
     "title": "Maya Meri Maya",
     "artist": "Sanjay Shrestha",
     "chords": ["Dm", "A#", "C"],
+    "chordImageUrl":[
+        "https://i.imgur.com/BFDPtgd.png",
+        "https://i.imgur.com/Oa65ZQ7.png",
+        "https://i.imgur.com/S73Txk8.png"
+    ],
     "content": [
       "Dm...............A#....................C..........Dm.............",
       "Maya meri maya hamro milan kahile huncha",
@@ -393,6 +418,12 @@
     "title": "Gurasha Ko Fed Muni",
     "artist": "Sabin Rai",
     "chords": ["Bm", "D", "A", "G"],
+    "chordImageUrl":[
+        "https://i.imgur.com/hOKJkEi.png",
+        "https://i.imgur.com/lJI3JOL.png",
+        "https://i.imgur.com/6HlPu4b.png",
+        "https://i.imgur.com/KeX7sc0.png"
+    ],
     "content": [
       "Bm....................................................D.....",
       "Gurasha ko fed muni, samjhana ko chaya",
