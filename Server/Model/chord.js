@@ -7,7 +7,7 @@ let chordSchema = new mongoose_1.Schema({
     artist: String,
     chords: [String],
     chordImageUrl: [
-        {
+        { name: String,
             imageUrl: [String]
         }
     ],

@@ -1,282 +1,467 @@
 [
-{
-
-"songID"    : 1,
-"title"     :  "Parelima",
-"artist"    : "1974 A.D.",
-"chords"    : ["E", "F#m", "A", "C#m", "B"],
-"chordImageUrl":
-[
-{
-  "name": "E",
-  "imageUrl":
-  ["/8PAgOiT.png", 
-  "/5YerQ5z.png", 
-  "/cEipjPK.png", 
-  "/Sb8oinv.png",
-   "/bWSaIS3.png", 
-   "/Reh1Fbj.png"]
-},
-{
-  "name": "F#m",
-  "imageUrl":
-  ["/fOixOJp.png",
-   "/ZUDfUqJ.png", 
-   "/E1lIu5D.png"]
-},
-{
-  "name": "A",
-  "imageUrl":
-["/JeQAFPG.png",
-"/ajOr0QQ.png",
-"/LveH8H0.png",
-"/hoPJfFb.png",
-"/SHJJy9K.png",
-"/orQCOqn.png"]
-},
-{
-  "name": "C#m",
-  "imageUrl":
-  [
-"/hzbfvw6.png",
-"/Hxpeig2.png",
-"/UK4BOBs.png"
-  ]
-},
-{
-  "name": "B",
-  "imageUrl":[
-"/XTsqY4c.png",
-"/9IXaePO.png",
-"/WLQ8UCU.png",
-"/9ZYQfmH.png",
-"/RmRZ5Rh.png"
-  ]
-}
-],
-"content"   :       
-[
-  "..E..F#m...A....E....",
-  "Parelima lukai rakhana",
-  "E...F#m..A.......E....",
-  "angaloma bandhi rakha",
-  "..E..F#m...A....E....",
-  "Parelima lukai rakhana",
-  "E...F#m..A.......E....",
-  "angaloma bandhi rakha",
-  "E.....F#m...A.....E....",
-  "jana nadeu roka naroka",
-  "E....F#m...A.....B..............E",
-  "udna nadeu aakasko chari jastai malai",
-  "C#m....................B.....",
-  "badhera rakha timrai mutuma",
-  "C#m...................B...",
-  "yo ta timrai dhadkan ho",
-  "C#m....................B......",
-  "sachera rakha timrai aakhama",
-  "A...................B..",
-  "yo ta timrai sahara ho",
-  "E......F#m...A...........E...",
-  "manna bhitra sachi rakha na",
-  "E.....F#m......A.......E....",
-  "aakha bhitra aljhairakha",
-  "E......F#m...A...........E...",
-  "manna bhitra sachi rakha na",
-  "E.....F#m......A.......E....",
-  "aakha bhitra aljhairakha",
-  "E.....F#m...A.........E....",
-  "ramna deuna timro aakhama",
-  "E......F#m......",
-  "basa basna deu",
-  "A........C#m...........B......",
-  "timro hridaya ko dhuk dhuki ma",
-  "C#m.....................B....",
-  "badhera rakha timrai mutuma",
-  "C#m..............B.......",
-  "yo ta timrai dhadkana ho",
-  "C#m......................B..",
-  "sachera rakha timrai aakhama",
-  "A...................B.....",
-  "yo ta timrai sahara ho"
-]
-
-},
-{
-    "songID" : 2,
-    "title" : "Jomson Bazar Ma",
-    "artist" : "Nepathya",
-    "chords" : ["G", "F", "C"],
-    "chordImageUrl" : ["https://i.imgur.com/KeX7sc0.png", "https://i.imgur.com/N043cVn.png", "https://i.imgur.com/S73Txk8.png"],
-    "content" : 
-    [
-       " G.......F...........G.......F.............G....",
-        "Jomsomai bazar ma bara baje hawa sarara",
-        ".........C....................F...........G.....",
-        "eh hajoor ghar hamro pokhara",
-        "G........................F..................G........",
-        "aahile samma bha chaina gharbar",
-        "......................F.......G..",
-        "ghar hamro pokhara",
-        
-        "G.................................F........",
-        "tyo danda dhakyo kuhirole",
-       ".........................................G....",
-        "aagha pani paren lai bari lai",
-        "..................................F........",
-        "dil chundi lagyo nisthurile",
-        "....................................................G.......",
-        "man ko byatha bughauna lai bari lai",
-        
-        "G......................F...........",
-        "jindagi bageko pani ho",
-        "...........................................G.........",
-        "feri farkera aaudaina lai bari lai",
-        "...............................F............",
-        "lagai halau maya yehi bela",
-        ".................................................G.....",
-        "yesto mauka aaundaina lai bari lai"
-    ]
-
-},
-{
-    "songID": 3, 
-    "title": "Kehi Mitho Baat Gara",
-    "artist": "Narayan Gopal",
-    "chords": ["F", "Am", "C", "Bb"],
-    "chordImageUrl": ["https://i.imgur.com/N043cVn.png", "https://i.imgur.com/J62GFv8.png", "https://i.imgur.com/S73Txk8.png", "https://i.imgur.com/KFDUFhe.png"],
-    "content": [
-      "F......................Am.....................C....................F.......",
-      "kehi meetho baat gara, raat tyasai dhalkidai cha",
-      ".............Bb...............F.......Bb.................F........",
-      "bhare pheri yekantama runu ta chadai cha",
-      "",
-      "F................................C.........................F....",
-      "ramailo kura gara, sapana ko kura gara",
-      ".............Am..........Bb...F........................C........",
-      "sang sangai bitayeko samjana ko kura gara",
-      "Bb.................F...............",
-      "samjhana ko kura gara",
-      "",
-      "F......................Am......................C...............F......",
-      "dukha choda dukhalai ta jindagani chadai cha",
-      ".............Bb...............F.......Bb.................F........",
-      "bhare pheri yekantama runu ta chadai cha",
-      "",
-      "F.......................................C.....................F.......",
-      "aau nachau andharoma junkiri nache jastai",
-      "Am.......................Bb........F........................C.....",
-      "batasa ma udau aaja simala ko bhuwa jastai",
-      "Bb......................F.........",
-      "simalako bhuwa jastai",
-      "",
-      "F......................Am...........................C.............F...",
-      "dui kadam saath hidau chuttinu ta chadai cha",
-      ".............Bb...............F.......Bb.................F........",
-      "bhare pheri yekantama runu ta chadai cha"
-    ]
-},
-{
-"songID": 4, 
-  "title": "Jeevan Ho Gham Chaya",
-  "artist": "Nepathya",
-  "chords": ["C", "Dm", "F", "Em", "G"],
-  "chordImageUrl": ["https://i.imgur.com/S73Txk8.png", "https://i.imgur.com/BFDPtgd.png", "https://i.imgur.com/N043cVn.png","https://i.imgur.com/wA0v6xu.png", "https://i.imgur.com/KeX7sc0.png"],
-  "content": [
-    "C................................Dm.............F......................C.......",
-    "Jeevan ho gham chaya, sukha dukha dubai huncha",
-    "C.........................Dm.......F.................C........",
-    "jiban ho bina maya, chatpati taba huncha",
-    "",
-    "C....................................D...................F.............C",
-    "samaya chakrama ghumi rahane ghadiko suero ho ki",
-    "C...................................Dm..........F............C",
-    "nashama ghumi rahane kunai bhula ho ki",
-    "",
-    "C....................Em.............F............................Dm...",
-    "hasi hasi banchi dincha khushima nachi dincha",
-    "F................................G...............C......",
-    "yehi ho ki yesko bani, yo jindagani",
-    "",
-    "C................Dm..............F......................C",
-    "yo jindagani, yo jindagani, yo jindagani",
-    "C................Dm..............F......................C",
-    "yo jindagani, yo jindagani, yo jindagani",
-    "",
-    "C....................Dm..........F..C",
-    "anayesai biti jane din ho ki",
-    "C........................Dm....................F..............C",
-    "aasama ghuli rahane ghutho sapana ho ki",
-    "",
-    "C................Em..................F........................Dm.",
-    "pidama dukhi huncha chot lagda sahi dincha",
-    "F.................................G..................C....",
-    "aago huncha kahile pani yo jindagani",
-    "",
-    "C..............Dm.................F.....................C",
-    "yo jindagani, yo jindagani, yo jindagani",
-    "C................Dm..............F......................C",
-    "yo jindagani, yo jindagani, yo jindagani"
-  ]
-},
-{
-    "songID": 5,
-    "title": "Chiya Barima",
-    "artist": "The Axe",
-    "chords": ["Am", "G"],
+  {
+    "songID": 1,
+    "title": "Parelima",
+    "artist": "1974 A.D.",
+    "chords": [
+      "E",
+      "F#m",
+      "A",
+      "C#m",
+      "B"
+    ],
     "chordImageUrl": [
       {
-        "imageUrl": ["https://i.imgur.com/GwASP8V.png", "https://i.imgur.com/98yfbfG.png", "https://i.imgur.com/lwqn6mD.png"]
+        "name": "E",
+        "imageUrl": [
+          "/8PAgOiT.png",
+          "/5YerQ5z.png",
+          "/cEipjPK.png",
+          "/Sb8oinv.png",
+          "/bWSaIS3.png",
+          "/Reh1Fbj.png"
+        ]
       },
       {
-        "imageUrl": ["https://i.imgur.com/GwASP8V.png", "https://i.imgur.com/98yfbfG.png", "https://i.imgur.com/lwqn6mD.png"]
+        "name": "F#m",
+        "imageUrl": [
+          "/fOixOJp.png",
+          "/ZUDfUqJ.png",
+          "/E1lIu5D.png"
+        ]
+      },
+      {
+        "name": "A",
+        "imageUrl": [
+          "/JeQAFPG.png",
+          "/ajOr0QQ.png",
+          "/LveH8H0.png",
+          "/hoPJfFb.png",
+          "/SHJJy9K.png",
+          "/orQCOqn.png"
+        ]
+      },
+      {
+        "name": "C#m",
+        "imageUrl": [
+          "/hzbfvw6.png",
+          "/Hxpeig2.png",
+          "/UK4BOBs.png"
+        ]
+      },
+      {
+        "name": "E",
+        "imageUrl": [
+          "/XTsqY4c.png",
+          "/9IXaePO.png",
+          "/WLQ8UCU.png",
+          "/9ZYQfmH.png",
+          "/RmRZ5Rh.png"
+        ]
       }
     ],
     "content": [
-      "Am......................................G.......Am.",
-      "dekhe timilai hijo hai raati sapani ma",
-      "Am....................................G...........Am..",
+      "..E..F#m...A....E....",
+      "Parelima lukai rakhana",
+      "E...F#m..A.......E....",
+      "angaloma bandhi rakha",
+      "..E..F#m...A....E....",
+      "Parelima lukai rakhana",
+      "E...F#m..A.......E....",
+      "angaloma bandhi rakha",
+      "E.....F#m...A.....E....",
+      "jana nadeu roka naroka",
+      "E....F#m...A.....B..............E",
+      "udna nadeu aakasko chari jastai malai",
+      "C#m....................B.....",
+      "badhera rakha timrai mutuma",
+      "C#m...................B...",
+      "yo ta timrai dhadkan ho",
+      "C#m....................B......",
+      "sachera rakha timrai aakhama",
+      "A...................B..",
+      "yo ta timrai sahara ho",
+      "E......F#m...A...........E...",
+      "manna bhitra sachi rakha na",
+      "E.....F#m......A.......E....",
+      "aakha bhitra aljhairakha",
+      "E......F#m...A...........E...",
+      "manna bhitra sachi rakha na",
+      "E.....F#m......A.......E....",
+      "aakha bhitra aljhairakha",
+      "E.....F#m...A.........E....",
+      "ramna deuna timro aakhama",
+      "E......F#m......",
+      "basa basna deu",
+      "A........C#m...........B......",
+      "timro hridaya ko dhuk dhuki ma",
+      "C#m.....................B....",
+      "badhera rakha timrai mutuma",
+      "C#m..............B.......",
+      "yo ta timrai dhadkana ho",
+      "C#m......................B..",
+      "sachera rakha timrai aakhama",
+      "A...................B.....",
+      "yo ta timrai sahara ho"
+    ]
+  },
+  {
+    "songID": 2,
+    "title": "Jomson Bazar Ma",
+    "artist": "Nepathya",
+    "chords": [
+      "G",
+      "F",
+      "C"
+    ],
+    "chordImageUrl": [
+      {
+        "name": "G",
+        "imageUrl": [
+          "/BOlGrGT.png",
+          "/ZDqKPhN.png",
+          "/RZ5ryxG.png",
+          "/gElFX74.png",
+          "/kx4IC2O.png"
+        ]
+      },
+      {
+        "name": "F",
+        "imageUrl": [
+          "/OpnFm1x.png",
+          "/knWoby5.png",
+          "/klB6lh7.png",
+          "/4u5pwBN.png",
+          "/J7ub7JA.png",
+          "/1NCtnoJ.png",
+          "/kN8nguz.png"
+        ]
+      },
+      {
+        "name": "C",
+        "imageUrl": [
+          "/z8OEEWD.png",
+          "/JQpTJIl.png",
+          "/XmNrTlA.png",
+          "/9C7LUUi.png",
+          "/DzoOmeF.png"
+        ]
+      }
+    ],
+    "content": [
+      " G.......F...........G.......F.........G....",
+      "Jomsomai bazar ma bara baje hawa sarara",
+      ".........C...............F...........G.....",
+      "eh hajoor ghar hamro pokhara",
+      "G........................F...............G........",
+      "aahile samma bha chaina gharbar",
+      "..............F.......G..",
+      "ghar hamro pokhara",
+      "G.....................F........",
+      "tyo danda dhakyo kuhirole",
+      "...........................G....",
+      "aagha pani paren lai bari lai",
+      ".......................F........",
+      "dil chundi lagyo nisthurile",
+      "...............................G.......",
+      "man ko byatha bughauna lai bari lai",
+      "G.................F...........",
+      "jindagi bageko pani ho",
+      "..............................G.........",
+      "feri farkera aaudaina lai bari lai",
+      ".......................F.........",
+      "lagai halau maya yehi bela",
+      ".................................G.....",
+      "yesto mauka aaundaina lai bari lai"
+    ]
+  },
+  {
+    "songID": 3,
+    "title": "Kehi Mitho Baat Gara",
+    "artist": "Narayan Gopal",
+    "chords": [
+      "F",
+      "Am",
+      "C",
+      "Bb"
+    ],
+    "chordImageUrl": [
+      {
+        "name": "F",
+        "imageUrl": [
+          "/OpnFm1x.png",
+          "/knWoby5.png",
+          "/klB6lh7.png",
+          "/4u5pwBN.png",
+          "/J7ub7JA.png",
+          "/1NCtnoJ.png",
+          "/kN8nguz.png"
+        ]
+      },
+      {
+        "name": "Am",
+        "imageUrl": [
+          "/qCYoX5l.png",
+          "/98yfbfG.png",
+          "/lwqn6mD.png",
+          "/M1C5JmB.png"
+        ]
+      },
+      {
+        "name": "C",
+        "imageUrl": [
+          "/z8OEEWD.png",
+          "/JQpTJIl.png",
+          "/XmNrTlA.png",
+          "/9C7LUUi.png",
+          "/DzoOmeF.png"
+        ]
+      },
+      {
+        "name": "Bb",
+        "imageUrl": [
+          "/JaE07mA.png",
+          "/Bgk8oXd.png",
+          "/SE7exzd.png",
+          "/kst8SCc.png"
+        ]
+      }
+    ],
+    "content": [
+      "F...........Am...........C..........F.......",
+      "kehi meetho baat gara, raat tyasai dhalkidai cha",
+      "Bb...........F.........Bb......F........",
+      "bhare pheri yekantama runu ta chadai cha",
+      "F.............C......F.............C....",
+      "ramailo kura gara, sapana ko kura gara",
+      "Am..........Bb.......F................C...",
+      "sang sangai bitayeko samjana ko kura gara",
+      "Bb.................F....",
+      "samjhana ko kura gara",
+      "F............Am.........C.................F..",
+      "dukha choda dukhalai ta jindagani chadai cha",
+      "Bb..........F.........Bb..............F....",
+      "bhare pheri yekantama runu ta chadai cha",
+      "F..........C..........F.............C...",
+      "aau nachau andharoma junkiri nache jastai",
+      "Am.............Bb.......F...............C...",
+      "batasa ma udau aaja simala ko bhuwa jastai",
+      "Bb......................F.........",
+      "simalako bhuwa jastai",
+      "F..........Am..........C.................F..",
+      "dui kadam saath hidau chuttinu ta chadai cha",
+      "Bb...........F........Bb..............F..",
+      "bhare pheri yekantama runu ta chadai cha"
+    ]
+  },
+  {
+    "songID": 4,
+    "title": "Jeevan Ho Gham Chaya",
+    "artist": "Nepathya",
+    "chords": [
+      "C",
+      "Dm",
+      "F",
+      "Em",
+      "G"
+    ],
+    "chordImageUrl": [
+      {
+        "name": "C",
+        "imageUrl": [
+          "/z8OEEWD.png",
+          "/JQpTJIl.png",
+          "/XmNrTlA.png",
+          "/9C7LUUi.png",
+          "/DzoOmeF.png"
+        ]
+      },
+      {
+        "name": "Dm",
+        "imageUrl": [
+          "/F5judMq.png",
+          "/yDEkvWg.png",
+          "/NEiu9fT.png",
+          "/iHKqk8C.png"
+        ]
+      },
+      {
+        "name": "F",
+        "imageUrl": [
+          "/YrxTtfx.png",
+          "/FqPTH0N.png",
+          "/YrxTtfx.png",
+          "/FqPTH0N.png",
+          "/YrxTtfx.png"
+        ]
+      },
+      {
+        "name": "Em",
+        "imageUrl": [
+          "/FqPTH0N.png",
+          "/YrxTtfx.png",
+          "/FqPTH0N.png",
+          "/YrxTtfx.png",
+          "/FqPTH0N.png"
+        ]
+      },
+      {
+        "name": "G",
+        "imageUrl": [
+          "/YrxTtfx.png",
+          "/FqPTH0N.png",
+          "/YrxTtfx.png",
+          "/FqPTH0N.png",
+          "/YrxTtfx.png"
+        ]
+      }
+    ],
+    "content": [
+      "C........Dm.............F.............C......",
+      "Jeevan ho gham chaya, sukha dukha dubai huncha",
+      "C............Dm.....F.............C.......",
+      "jiban ho bina maya, chatpati taba huncha",
+      "C...............D............F........C.......",
+      "samaya chakrama ghumi rahane ghadiko taara ho ki",
+      "C.............Dm......F.............C..",
+      "nashama ghumi rahane kunai bhula ho ki",
+      "C.........Em...........F.........Dm.......",
+      "hasi hasi bachi dincha khushima nachi dincha",
+      "F.................G......C.........",
+      "yehi ho ki yesko bani, yo jindagani",
+      "C.............Dm............F............",
+      "yo jindagani, yo jindagani, yo jindagani",
+      "C.............Dm.............F...........",
+      "yo jindagani, yo jindagani, yo jindagani",
+      "C.........Dm...F.......C....",
+      "anayesai biti jane din ho ki",
+      "C......Dm.....F...................C.....",
+      "aasama jhuli rahane jhutho sapana ho ki",
+      "C.......Em............F........Dm.......",
+      "pidama dukha huncha chot lagda sahi dincha",
+      "F...................G..........C....",
+      "aago huncha kahile pani yo jindagani",
+      "C..............Dm............F..........",
+      "yo jindagani, yo jindagani, yo jindagani",
+      "C.............Dm............F.............",
+      "yo jindagani, yo jindagani, yo jindagani"
+    ]
+  },
+  {
+    "songID": 5,
+    "title": "Chiya Barima",
+    "artist": "The Axe",
+    "chords": [
+      "Am",
+      "G",
+      "D",
+      "C",
+      "Em"
+    ],
+    "chordImageUrl": [
+      {
+        "name": "Am",
+        "imageUrl": [
+          "/qCYoX5l.png",
+          "/98yfbfG.png",
+          "/lwqn6mD.png",
+          "/M1C5JmB.png"
+        ]
+      },
+      {
+        "name": "G",
+        "imageUrl": [
+          "/YrxTtfx.png",
+          "/FqPTH0N.png",
+          "/YrxTtfx.png",
+          "/FqPTH0N.png",
+          "/YrxTtfx.png"
+        ]
+      },
+      {
+        "name": "D",
+        "imageUrl": [
+          "/lWSYlkl.png",
+          "/ldtCCat.png",
+          "/PomYbyJ.png",
+          "/WREOAWE.png",
+          "/GJdvM6W.png"
+        ]
+      },
+      {
+        "name": "C",
+        "imageUrl": [
+          "/z8OEEWD.png",
+          "/JQpTJIl.png",
+          "/XmNrTlA.png",
+          "/9C7LUUi.png",
+          "/DzoOmeF.png"
+        ]
+      },
+      {
+        "name": "Em",
+        "imageUrl": [
+          "/FqPTH0N.png",
+          "/YrxTtfx.png",
+          "/FqPTH0N.png",
+          "/YrxTtfx.png",
+          "/FqPTH0N.png"
+        ]
+      }
+    ],
+    "content": [
+      "Am............G...........D...C.......Am",
+      "dekhe timilai hijo hai raatiii sapani ma",
+      "Am.........G............D...C.......Am",
       "bipani ma bheteko thiyein danda parima",
-      "G.............................Am......",
+      "G.............Am......",
       "danda parima chautari ma x 2",
-      "G...........Am...G........Am...",
+      "G........Am...G........Am...",
       "chiya barima chiya barima",
-      "",
-      "Am.........................................G.......",
+      "Am......................G.........D",
       "chaubandi choli ra timro rato ribana",
-      "G...................................................Am.............",
-      "dhaka sari ma maskera hidna choryo yo mann",
-      "Am.................................G.........",
+      "Em.............G.......................Am..",
+      "dhaka sari ma maskera hidna choryo yo mana",
+      "Am...................G........D.",
       "ukali ra orali gardai pandherima",
-      "G..............................................Am..........G.....Am.......G......Am....",
-      "chori mutu sutukka mannko majherima majherima ho majherima",
-      "G..........................Am......",
+      "Em..........G...............Am......",
+      "chori mutu sutukka mannko majherima",
+      "Am...........Am.....",
+      "majherima ho majherima",
+      "G............Am.........",
       "dandapari ma chautari ma",
-      "G.........Am......G......Am....",
+      "G.........Am...G......Am....",
       "chiya bari ma chiya barima",
-      "",
-      "Am...........................................G.........",
+      "Am........................G.......D...",
       "deurali ko bhanjyangai ma kuri basula",
-      "G..........................................Am......",
+      "Em...........G..............Am....",
       "barpeepal ko chaharima priti gasula",
-      "Am.......................................................G.......",
+      "Am............................G.........D",
       "kanchi timilai doli ma chadai panche bajama",
-      ".................................................Am.........G.........Am...........G..........Am..",
-      "laejaula rakhula timilai mutu majhama mutu majhama ho mutu majhma",
-      "G..............................Am.......",
+      "Em.........G...............Am......",
+      "laejaula rakhula timilai mutu majhama ",
+      "Am...............Am........",
+      "mutu majhama ho mutu majhma",
+      "G............Am...........",
       "danda parima chautari ma x 2",
-      "G............Am....G......Am....",
+      "G.........Am....G......Am....",
       "chiya bari ma, chiya barima"
     ]
-},
-{
+  },
+  {
     "songID": 6,
     "title": "Praye Sadhai Ma",
     "artist": "The Axe",
-    "chords": ["D", "G", "C"],
+    "chords": [
+      "D",
+      "G",
+      "C"
+    ],
     "chordImageUrl": [
-        "https://i.imgur.com/lJI3JOL.png",
-         "https://i.imgur.com/KeX7sc0.png", 
-         "https://i.imgur.com/S73Txk8.png"],
+      "https://i.imgur.com/lJI3JOL.png",
+      "https://i.imgur.com/KeX7sc0.png",
+      "https://i.imgur.com/S73Txk8.png"
+    ],
     "content": [
       "D..................................",
       "praye sadhai ma timilai",
@@ -329,18 +514,25 @@
       ".............................D..................",
       "taipani mann lai samjhaudai chu"
     ]
-},
-{
+  },
+  {
     "songID": 7,
     "title": "Euta Chitthi Ko Sahara Le",
     "artist": "The Axe",
-    "chords": ["Em", "Esus4", "D", "C", "A", "F"],
+    "chords": [
+      "Em",
+      "Esus4",
+      "D",
+      "C",
+      "A",
+      "F"
+    ],
     "chordImageUrl": [
-    "https://i.imgur.com/wA0v6xu.png", 
-    "https://i.imgur.com/axNaI5y.png",
-     "https://i.imgur.com/lJI3JOL.png",
-     "https://i.imgur.com/S73Txk8.png",
-     "https://i.imgur.com/6HlPu4b.png", 
+      "https://i.imgur.com/wA0v6xu.png",
+      "https://i.imgur.com/axNaI5y.png",
+      "https://i.imgur.com/lJI3JOL.png",
+      "https://i.imgur.com/S73Txk8.png",
+      "https://i.imgur.com/6HlPu4b.png",
       "https://i.imgur.com/N043cVn.png"
     ],
     "content": [
@@ -397,20 +589,27 @@
       "Em...........................",
       "timro mann jitana ........."
     ]
-},
-{
+  },
+  {
     "songID": 8,
     "title": "Ritu Haruma Timi",
     "artist": "Arun Thapa",
-    "chords": ["F", "Dm", "Gm", "Bb", "C", "Eb"],
-    "chordImageUrl":[ 
-        "https://i.imgur.com/N043cVn.png",
-         "https://i.imgur.com/BFDPtgd.png", 
-         "https://i.imgur.com/oykOv0E.png",
-         "https://i.imgur.com/gNOyx6h.png",
-         "https://i.imgur.com/S73Txk8.png",
-         "https://i.imgur.com/gNOyx6h.png"
-],
+    "chords": [
+      "F",
+      "Dm",
+      "Gm",
+      "Bb",
+      "C",
+      "Eb"
+    ],
+    "chordImageUrl": [
+      "https://i.imgur.com/N043cVn.png",
+      "https://i.imgur.com/BFDPtgd.png",
+      "https://i.imgur.com/oykOv0E.png",
+      "https://i.imgur.com/gNOyx6h.png",
+      "https://i.imgur.com/S73Txk8.png",
+      "https://i.imgur.com/gNOyx6h.png"
+    ],
     "content": [
       "F..........................................Dm..........Gm",
       "Rituharuma timi hariyali basanta hau",
@@ -450,11 +649,15 @@
     "songID": 9,
     "title": "Maya Meri Maya",
     "artist": "Sanjay Shrestha",
-    "chords": ["Dm", "A#", "C"],
-    "chordImageUrl":[
-        "https://i.imgur.com/BFDPtgd.png",
-        "https://i.imgur.com/Oa65ZQ7.png",
-        "https://i.imgur.com/S73Txk8.png"
+    "chords": [
+      "Dm",
+      "A#",
+      "C"
+    ],
+    "chordImageUrl": [
+      "https://i.imgur.com/BFDPtgd.png",
+      "https://i.imgur.com/Oa65ZQ7.png",
+      "https://i.imgur.com/S73Txk8.png"
     ],
     "content": [
       "Dm...............A#....................C..........Dm.............",
@@ -475,17 +678,21 @@
       "feri aaja malai chodi eklo banai bilai gayau"
     ]
   },
-
   {
     "songID": 10,
     "title": "Gurasha Ko Fed Muni",
     "artist": "Sabin Rai",
-    "chords": ["Bm", "D", "A", "G"],
-    "chordImageUrl":[
-        "https://i.imgur.com/hOKJkEi.png",
-        "https://i.imgur.com/lJI3JOL.png",
-        "https://i.imgur.com/6HlPu4b.png",
-        "https://i.imgur.com/KeX7sc0.png"
+    "chords": [
+      "Bm",
+      "D",
+      "A",
+      "G"
+    ],
+    "chordImageUrl": [
+      "https://i.imgur.com/hOKJkEi.png",
+      "https://i.imgur.com/lJI3JOL.png",
+      "https://i.imgur.com/6HlPu4b.png",
+      "https://i.imgur.com/KeX7sc0.png"
     ],
     "content": [
       "Bm....................................................D.....",
@@ -511,6 +718,4 @@
       "jasari ni paehalchu pancha kanya bhaki"
     ]
   }
-
-
 ]
