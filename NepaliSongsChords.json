@@ -5,43 +5,99 @@
 "title"     :  "Parelima",
 "artist"    : "1974 A.D.",
 "chords"    : ["E", "F#m", "A", "C#m", "B"],
-"chordImageUrl" : ["https://i.imgur.com/R15AwWH.png", "https://i.imgur.com/edZKKTP.png", "https://i.imgur.com/6HlPu4b.png", "https://i.imgur.com/8mkSRqK.png", "https://i.imgur.com/2iGwIMO.png"],
+"chordImageUrl":
+[
+{
+  "name": "E",
+  "imageUrl":
+  ["/8PAgOiT.png", 
+  "/5YerQ5z.png", 
+  "/cEipjPK.png", 
+  "/Sb8oinv.png",
+   "/bWSaIS3.png", 
+   "/Reh1Fbj.png"]
+},
+{
+  "name": "F#m",
+  "imageUrl":
+  ["/fOixOJp.png",
+   "/ZUDfUqJ.png", 
+   "/E1lIu5D.png"]
+},
+{
+  "name": "A",
+  "imageUrl":
+["/JeQAFPG.png",
+"/ajOr0QQ.png",
+"/LveH8H0.png",
+"/hoPJfFb.png",
+"/SHJJy9K.png",
+"/orQCOqn.png"]
+},
+{
+  "name": "C#m",
+  "imageUrl":
+  [
+"/hzbfvw6.png",
+"/Hxpeig2.png",
+"/UK4BOBs.png"
+  ]
+},
+{
+  "name": "B",
+  "imageUrl":[
+"/XTsqY4c.png",
+"/9IXaePO.png",
+"/WLQ8UCU.png",
+"/9ZYQfmH.png",
+"/RmRZ5Rh.png"
+  ]
+}
+],
 "content"   :       
-["E..........F#m...A.......E....",
-"Parelima lukai rakhana",
-"E..........F#m...A.......E....",
-"angaloma bandhi rakha",
-"E.....F#m...A.......E.........",
-"jana nadeu roka naroka",
-"E........F#m...A................................B.......",
-"udna nadeu aakasko chari jastai malai",
-"C#m....................................B.....",
-"badhera rakha timrai mutuma",
-"C#m.................B..............",
-"yo ta timrai dhadkan ho",
-"C#m..............................B............",
-"sachera rakha timrai aakhama",
-"A...............................B..",
-"yo ta timrai sahara ho",
-"",
-"E..........F#m...A...........E.........",
-"manna bhitra sachi rakha na",
-"E..........F#m......A.......E....",
-"aakha bhitra alghaerakha",
-"E..........F#m...A..............E....",
-"ramna deuna timro aakhama",
-"E......F#m.........",
-"basa basna deu",
-"A........C#m.............B......................",
-"timro hridaya ko dhuk dhuki ma",
-"C#m..............................B.........",
-"badhera raha timrai mutuma",
-"C#m............................B.....",
-"yo ta timrai dhadkana ho",
-"C#m.............................B.............",
-"sachera rakha timrai aakhama",
-"A...........................B.....",
-"yo ta timrai sahara ho"
+[
+  "..E..F#m...A....E....",
+  "Parelima lukai rakhana",
+  "E...F#m..A.......E....",
+  "angaloma bandhi rakha",
+  "..E..F#m...A....E....",
+  "Parelima lukai rakhana",
+  "E...F#m..A.......E....",
+  "angaloma bandhi rakha",
+  "E.....F#m...A.....E....",
+  "jana nadeu roka naroka",
+  "E....F#m...A.....B..............E",
+  "udna nadeu aakasko chari jastai malai",
+  "C#m....................B.....",
+  "badhera rakha timrai mutuma",
+  "C#m...................B...",
+  "yo ta timrai dhadkan ho",
+  "C#m....................B......",
+  "sachera rakha timrai aakhama",
+  "A...................B..",
+  "yo ta timrai sahara ho",
+  "E......F#m...A...........E...",
+  "manna bhitra sachi rakha na",
+  "E.....F#m......A.......E....",
+  "aakha bhitra aljhairakha",
+  "E......F#m...A...........E...",
+  "manna bhitra sachi rakha na",
+  "E.....F#m......A.......E....",
+  "aakha bhitra aljhairakha",
+  "E.....F#m...A.........E....",
+  "ramna deuna timro aakhama",
+  "E......F#m......",
+  "basa basna deu",
+  "A........C#m...........B......",
+  "timro hridaya ko dhuk dhuki ma",
+  "C#m.....................B....",
+  "badhera rakha timrai mutuma",
+  "C#m..............B.......",
+  "yo ta timrai dhadkana ho",
+  "C#m......................B..",
+  "sachera rakha timrai aakhama",
+  "A...................B.....",
+  "yo ta timrai sahara ho"
 ]
 
 },
@@ -53,7 +109,7 @@
     "chordImageUrl" : ["https://i.imgur.com/KeX7sc0.png", "https://i.imgur.com/N043cVn.png", "https://i.imgur.com/S73Txk8.png"],
     "content" : 
     [
-       " G....................F...........G.............F.............G....",
+       " G.......F...........G.......F.............G....",
         "Jomsomai bazar ma bara baje hawa sarara",
         ".........C....................F...........G.....",
         "eh hajoor ghar hamro pokhara",
@@ -167,7 +223,14 @@
     "title": "Chiya Barima",
     "artist": "The Axe",
     "chords": ["Am", "G"],
-    "chordImageUrl": ["https://i.imgur.com/J62GFv8.png", "https://i.imgur.com/KeX7sc0.png"],
+    "chordImageUrl": [
+      {
+        "imageUrl": ["https://i.imgur.com/GwASP8V.png", "https://i.imgur.com/98yfbfG.png", "https://i.imgur.com/lwqn6mD.png"]
+      },
+      {
+        "imageUrl": ["https://i.imgur.com/GwASP8V.png", "https://i.imgur.com/98yfbfG.png", "https://i.imgur.com/lwqn6mD.png"]
+      }
+    ],
     "content": [
       "Am......................................G.......Am.",
       "dekhe timilai hijo hai raati sapani ma",

@@ -4,7 +4,9 @@ import { Url } from "url";
 //Structure-Data types- Interface
 
 interface chordImages{
+    name: string,
     imageUrl :string[]
+
 }
 
 interface IChord 
@@ -26,7 +28,7 @@ let chordSchema = new Schema<IChord>
     chords : [String],
     chordImageUrl:
     [
-        {
+        {   name: String,
             imageUrl: [String]
         }
 
