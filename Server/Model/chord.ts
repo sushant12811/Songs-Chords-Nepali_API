@@ -24,7 +24,13 @@ let chordSchema = new Schema<IChord>
     title : String,
     artist : String,
     chords : [String],
-    chordImageURL:[String],
+    chordImageURL:
+    [
+        {
+            imageUrl: [String]
+        }
+
+    ],
     content : [String]
 
 });
